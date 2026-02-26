@@ -1,0 +1,100 @@
+[
+    {
+        "id": "cam_0000",
+        "axis": "camera_motion",
+        "subject": "A floating crystal jellyfish",
+        "prompts": [
+            "A panning slowly across A floating crystal jellyfish as it is playing a golden flute in a crowded marketplace in ancient Rome.",
+            "A zooming in on A floating crystal jellyfish as it is playing a golden flute in a crowded marketplace in ancient Rome.",
+            "A tracking from a low angle A floating crystal jellyfish as it is playing a golden flute in a crowded marketplace in ancient Rome.",
+            "A tilting up towards A floating crystal jellyfish as it is playing a golden flute in a crowded marketplace in ancient Rome."
+        ]
+    },
+    {
+        "id": "obj_0001",
+        "axis": "object_interaction",
+        "subject": "A medieval knight in shining armor",
+        "prompts": [
+            "A medieval knight in shining armor interacting with a glowing orb in a dusty library with infinite shelves.",
+            "A medieval knight in shining armor interacting with a mysterious ancient scroll in a dusty library with infinite shelves.",
+            "A medieval knight in shining armor interacting with a holographic map in a dusty library with infinite shelves.",
+            "A medieval knight in shining armor interacting with a mechanical butterfly in a dusty library with infinite shelves."
+        ]
+    },
+    {
+        "id": "bac_0002",
+        "axis": "background_shift",
+        "subject": "A vintage steampunk airship",
+        "prompts": [
+            "A vintage steampunk airship is performing a magic ritual in a dusty library with infinite shelves.",
+            "A vintage steampunk airship is searching for something in the neon-lit rooftops of a futuristic Seoul.",
+            "A vintage steampunk airship is playing a golden flute in a crowded marketplace in ancient Rome.",
+            "A vintage steampunk airship is floating slowly above an underwater city made of coral."
+        ]
+    },
+    {
+        "id": "obj_0003",
+        "axis": "object_interaction",
+        "subject": "A futuristic combat drone",
+        "prompts": [
+            "A futuristic combat drone interacting with a glowing orb in an underwater city made of coral.",
+            "A futuristic combat drone interacting with a mysterious ancient scroll in an underwater city made of coral.",
+            "A futuristic combat drone interacting with a holographic map in an underwater city made of coral.",
+            "A futuristic combat drone interacting with a mechanical butterfly in an underwater city made of coral."
+        ]
+    },
+    {
+        "id": "obj_0004",
+        "axis": "object_interaction",
+        "subject": "A majestic phoenix",
+        "prompts": [
+            "A majestic phoenix interacting with a glowing orb in a floating island in the clouds.",
+            "A majestic phoenix interacting with a mysterious ancient scroll in a floating island in the clouds.",
+            "A majestic phoenix interacting with a holographic map in a floating island in the clouds.",
+            "A majestic phoenix interacting with a mechanical butterfly in a floating island in the clouds."
+        ]
+    },
+    {
+        "id": "cam_0005",
+        "axis": "camera_motion",
+        "subject": "A street photographer in Tokyo",
+        "prompts": [
+            "A panning slowly across A street photographer in Tokyo as it is repairing a broken machine in the crater of an active volcano.",
+            "A zooming in on A street photographer in Tokyo as it is repairing a broken machine in the crater of an active volcano.",
+            "A tracking from a low angle A street photographer in Tokyo as it is repairing a broken machine in the crater of an active volcano.",
+            "A tilting up towards A street photographer in Tokyo as it is repairing a broken machine in the crater of an active volcano."
+        ]
+    },
+    {
+        "id": "cam_0006",
+        "axis": "camera_motion",
+        "subject": "A majestic phoenix",
+        "prompts": [
+            "A panning slowly across A majestic phoenix as it is paintng a masterpiece in the silent corridors of a space station.",
+            "A zooming in on A majestic phoenix as it is paintng a masterpiece in the silent corridors of a space station.",
+            "A tracking from a low angle A majestic phoenix as it is paintng a masterpiece in the silent corridors of a space station.",
+            "A tilting up towards A majestic phoenix as it is paintng a masterpiece in the silent corridors of a space station."
+        ]
+    },
+    {
+        "id": "bac_0007",
+        "axis": "background_shift",
+        "subject": "A curious toddler in a yellow raincoat",
+        "prompts": [
+            "A curious toddler in a yellow raincoat is floating slowly above the silent corridors of a space station.",
+            "A curious toddler in a yellow raincoat is resting peacefully in a vibrant coral reef.",
+            "A curious toddler in a yellow raincoat is fighting an invisible enemy in an underwater city made of coral.",
+            "A curious toddler in a yellow raincoat is searching for something in a floating island in the clouds."
+        ]
+    },
+    {
+        "id": "act_0008",
+        "axis": "action_change",
+        "subject": "A ballerina made of starlight",
+        "prompts": [
+            "A ballerina made of starlight is repairing a broken machine in a post-apocalyptic desert wasteland.",
+            "A ballerina made of starlight is resting peacefully in a post-apocalyptic desert wasteland.",
+            "A ballerina made of starlight is floating slowly above a post-apocalyptic desert wasteland.",
+            "A ballerina made of starlight is paintng a masterpiece in a post-apocalyptic desert wasteland."
+        ]
+    },

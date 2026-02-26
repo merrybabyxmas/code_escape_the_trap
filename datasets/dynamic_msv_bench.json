@@ -1,0 +1,1102 @@
+[
+    {
+        "id": "set_a_000",
+        "type": "semantic_shift",
+        "subject": "A Victorian lady",
+        "prompts": [
+            "A Victorian lady in rainforest",
+            "A Victorian lady in space",
+            "A Victorian lady in medieval village",
+            "A Victorian lady underwater"
+        ]
+    },
+    {
+        "id": "set_a_001",
+        "type": "semantic_shift",
+        "subject": "A robotic ballerina",
+        "prompts": [
+            "A robotic ballerina on snow mountain",
+            "A robotic ballerina at a carnival",
+            "A robotic ballerina in rainforest",
+            "A robotic ballerina in cathedral"
+        ]
+    },
+    {
+        "id": "set_a_002",
+        "type": "semantic_shift",
+        "subject": "A robotic ballerina",
+        "prompts": [
+            "A robotic ballerina in medieval village",
+            "A robotic ballerina in space",
+            "A robotic ballerina in cathedral",
+            "A robotic ballerina on snow mountain"
+        ]
+    },
+    {
+        "id": "set_a_003",
+        "type": "semantic_shift",
+        "subject": "A futuristic soldier",
+        "prompts": [
+            "A futuristic soldier in high-tech lab",
+            "A futuristic soldier in medieval village",
+            "A futuristic soldier in cathedral",
+            "A futuristic soldier on snow mountain"
+        ]
+    },
+    {
+        "id": "set_a_004",
+        "type": "semantic_shift",
+        "subject": "A futuristic soldier",
+        "prompts": [
+            "A futuristic soldier in rainforest",
+            "A futuristic soldier in space",
+            "A futuristic soldier on desert planet",
+            "A futuristic soldier on snow mountain"
+        ]
+    },
+    {
+        "id": "set_a_005",
+        "type": "semantic_shift",
+        "subject": "A glowing neon jellyfish",
+        "prompts": [
+            "A glowing neon jellyfish on snow mountain",
+            "A glowing neon jellyfish in rainforest",
+            "A glowing neon jellyfish in cyberpunk city",
+            "A glowing neon jellyfish in space"
+        ]
+    },
+    {
+        "id": "set_a_006",
+        "type": "semantic_shift",
+        "subject": "A golden retriever",
+        "prompts": [
+            "A golden retriever underwater",
+            "A golden retriever in high-tech lab",
+            "A golden retriever in cathedral",
+            "A golden retriever in rainforest"
+        ]
+    },
+    {
+        "id": "set_a_007",
+        "type": "semantic_shift",
+        "subject": "A samurai in brass armor",
+        "prompts": [
+            "A samurai in brass armor at a carnival",
+            "A samurai in brass armor in cyberpunk city",
+            "A samurai in brass armor in rainforest",
+            "A samurai in brass armor in high-tech lab"
+        ]
+    },
+    {
+        "id": "set_a_008",
+        "type": "semantic_shift",
+        "subject": "A robotic ballerina",
+        "prompts": [
+            "A robotic ballerina underwater",
+            "A robotic ballerina in cathedral",
+            "A robotic ballerina in cyberpunk city",
+            "A robotic ballerina in rainforest"
+        ]
+    },
+    {
+        "id": "set_a_009",
+        "type": "semantic_shift",
+        "subject": "A Victorian lady",
+        "prompts": [
+            "A Victorian lady on snow mountain",
+            "A Victorian lady underwater",
+            "A Victorian lady at a carnival",
+            "A Victorian lady on desert planet"
+        ]
+    },
+    {
+        "id": "set_a_010",
+        "type": "semantic_shift",
+        "subject": "An obsidian dragon",
+        "prompts": [
+            "An obsidian dragon in cathedral",
+            "An obsidian dragon in cyberpunk city",
+            "An obsidian dragon underwater",
+            "An obsidian dragon in high-tech lab"
+        ]
+    },
+    {
+        "id": "set_a_011",
+        "type": "semantic_shift",
+        "subject": "A Victorian lady",
+        "prompts": [
+            "A Victorian lady in medieval village",
+            "A Victorian lady in rainforest",
+            "A Victorian lady on desert planet",
+            "A Victorian lady in space"
+        ]
+    },
+    {
+        "id": "set_a_012",
+        "type": "semantic_shift",
+        "subject": "A golden retriever",
+        "prompts": [
+            "A golden retriever in medieval village",
+            "A golden retriever on desert planet",
+            "A golden retriever in cathedral",
+            "A golden retriever in high-tech lab"
+        ]
+    },
+    {
+        "id": "set_a_013",
+        "type": "semantic_shift",
+        "subject": "A Victorian lady",
+        "prompts": [
+            "A Victorian lady in high-tech lab",
+            "A Victorian lady in space",
+            "A Victorian lady in cathedral",
+            "A Victorian lady in rainforest"
+        ]
+    },
+    {
+        "id": "set_a_014",
+        "type": "semantic_shift",
+        "subject": "A Victorian lady",
+        "prompts": [
+            "A Victorian lady in rainforest",
+            "A Victorian lady in cyberpunk city",
+            "A Victorian lady underwater",
+            "A Victorian lady in space"
+        ]
+    },
+    {
+        "id": "set_a_015",
+        "type": "semantic_shift",
+        "subject": "A glowing neon jellyfish",
+        "prompts": [
+            "A glowing neon jellyfish in high-tech lab",
+            "A glowing neon jellyfish in space",
+            "A glowing neon jellyfish in rainforest",
+            "A glowing neon jellyfish in cyberpunk city"
+        ]
+    },
+    {
+        "id": "set_a_016",
+        "type": "semantic_shift",
+        "subject": "A robotic ballerina",
+        "prompts": [
+            "A robotic ballerina on snow mountain",
+            "A robotic ballerina in cyberpunk city",
+            "A robotic ballerina in rainforest",
+            "A robotic ballerina in space"
+        ]
+    },
+    {
+        "id": "set_a_017",
+        "type": "semantic_shift",
+        "subject": "A Victorian lady",
+        "prompts": [
+            "A Victorian lady in cyberpunk city",
+            "A Victorian lady in space",
+            "A Victorian lady in rainforest",
+            "A Victorian lady in high-tech lab"
+        ]
+    },
+    {
+        "id": "set_a_018",
+        "type": "semantic_shift",
+        "subject": "An obsidian dragon",
+        "prompts": [
+            "An obsidian dragon on desert planet",
+            "An obsidian dragon in cyberpunk city",
+            "An obsidian dragon in high-tech lab",
+            "An obsidian dragon in medieval village"
+        ]
+    },
+    {
+        "id": "set_a_019",
+        "type": "semantic_shift",
+        "subject": "An obsidian dragon",
+        "prompts": [
+            "An obsidian dragon in rainforest",
+            "An obsidian dragon underwater",
+            "An obsidian dragon on desert planet",
+            "An obsidian dragon in high-tech lab"
+        ]
+    },
+    {
+        "id": "set_a_020",
+        "type": "semantic_shift",
+        "subject": "A futuristic soldier",
+        "prompts": [
+            "A futuristic soldier in cathedral",
+            "A futuristic soldier on snow mountain",
+            "A futuristic soldier underwater",
+            "A futuristic soldier in medieval village"
+        ]
+    },
+    {
+        "id": "set_a_021",
+        "type": "semantic_shift",
+        "subject": "A golden retriever",
+        "prompts": [
+            "A golden retriever underwater",
+            "A golden retriever in medieval village",
+            "A golden retriever in cyberpunk city",
+            "A golden retriever at a carnival"
+        ]
+    },
+    {
+        "id": "set_a_022",
+        "type": "semantic_shift",
+        "subject": "A golden retriever",
+        "prompts": [
+            "A golden retriever on desert planet",
+            "A golden retriever in space",
+            "A golden retriever at a carnival",
+            "A golden retriever in cyberpunk city"
+        ]
+    },
+    {
+        "id": "set_a_023",
+        "type": "semantic_shift",
+        "subject": "A cybernetic tiger",
+        "prompts": [
+            "A cybernetic tiger on snow mountain",
+            "A cybernetic tiger at a carnival",
+            "A cybernetic tiger in high-tech lab",
+            "A cybernetic tiger in cathedral"
+        ]
+    },
+    {
+        "id": "set_a_024",
+        "type": "semantic_shift",
+        "subject": "A robotic ballerina",
+        "prompts": [
+            "A robotic ballerina in medieval village",
+            "A robotic ballerina on desert planet",
+            "A robotic ballerina in space",
+            "A robotic ballerina underwater"
+        ]
+    },
+    {
+        "id": "set_a_025",
+        "type": "semantic_shift",
+        "subject": "A samurai in brass armor",
+        "prompts": [
+            "A samurai in brass armor in rainforest",
+            "A samurai in brass armor in cyberpunk city",
+            "A samurai in brass armor on snow mountain",
+            "A samurai in brass armor in high-tech lab"
+        ]
+    },
+    {
+        "id": "set_a_026",
+        "type": "semantic_shift",
+        "subject": "An obsidian dragon",
+        "prompts": [
+            "An obsidian dragon in medieval village",
+            "An obsidian dragon at a carnival",
+            "An obsidian dragon in cyberpunk city",
+            "An obsidian dragon in space"
+        ]
+    },
+    {
+        "id": "set_a_027",
+        "type": "semantic_shift",
+        "subject": "A cybernetic tiger",
+        "prompts": [
+            "A cybernetic tiger in high-tech lab",
+            "A cybernetic tiger in space",
+            "A cybernetic tiger at a carnival",
+            "A cybernetic tiger in medieval village"
+        ]
+    },
+    {
+        "id": "set_a_028",
+        "type": "semantic_shift",
+        "subject": "A robot gardener",
+        "prompts": [
+            "A robot gardener in cyberpunk city",
+            "A robot gardener at a carnival",
+            "A robot gardener in medieval village",
+            "A robot gardener on snow mountain"
+        ]
+    },
+    {
+        "id": "set_a_029",
+        "type": "semantic_shift",
+        "subject": "A glowing neon jellyfish",
+        "prompts": [
+            "A glowing neon jellyfish at a carnival",
+            "A glowing neon jellyfish underwater",
+            "A glowing neon jellyfish on snow mountain",
+            "A glowing neon jellyfish in cathedral"
+        ]
+    },
+    {
+        "id": "set_a_030",
+        "type": "semantic_shift",
+        "subject": "An obsidian dragon",
+        "prompts": [
+            "An obsidian dragon in rainforest",
+            "An obsidian dragon in cyberpunk city",
+            "An obsidian dragon underwater",
+            "An obsidian dragon at a carnival"
+        ]
+    },
+    {
+        "id": "set_a_031",
+        "type": "semantic_shift",
+        "subject": "A cybernetic tiger",
+        "prompts": [
+            "A cybernetic tiger in rainforest",
+            "A cybernetic tiger in cathedral",
+            "A cybernetic tiger in high-tech lab",
+            "A cybernetic tiger in space"
+        ]
+    },
+    {
+        "id": "set_a_032",
+        "type": "semantic_shift",
+        "subject": "A robotic ballerina",
+        "prompts": [
+            "A robotic ballerina in medieval village",
+            "A robotic ballerina in cathedral",
+            "A robotic ballerina at a carnival",
+            "A robotic ballerina on desert planet"
+        ]
+    },
+    {
+        "id": "set_a_033",
+        "type": "semantic_shift",
+        "subject": "An obsidian dragon",
+        "prompts": [
+            "An obsidian dragon in high-tech lab",
+            "An obsidian dragon on desert planet",
+            "An obsidian dragon in cathedral",
+            "An obsidian dragon in rainforest"
+        ]
+    },
+    {
+        "id": "set_a_034",
+        "type": "semantic_shift",
+        "subject": "A samurai in brass armor",
+        "prompts": [
+            "A samurai in brass armor on desert planet",
+            "A samurai in brass armor underwater",
+            "A samurai in brass armor in space",
+            "A samurai in brass armor at a carnival"
+        ]
+    },
+    {
+        "id": "set_a_035",
+        "type": "semantic_shift",
+        "subject": "A steampunk clockwork owl",
+        "prompts": [
+            "A steampunk clockwork owl underwater",
+            "A steampunk clockwork owl in space",
+            "A steampunk clockwork owl in rainforest",
+            "A steampunk clockwork owl on snow mountain"
+        ]
+    },
+    {
+        "id": "set_a_036",
+        "type": "semantic_shift",
+        "subject": "An obsidian dragon",
+        "prompts": [
+            "An obsidian dragon in high-tech lab",
+            "An obsidian dragon on desert planet",
+            "An obsidian dragon in cathedral",
+            "An obsidian dragon in cyberpunk city"
+        ]
+    },
+    {
+        "id": "set_a_037",
+        "type": "semantic_shift",
+        "subject": "A glowing neon jellyfish",
+        "prompts": [
+            "A glowing neon jellyfish in high-tech lab",
+            "A glowing neon jellyfish in space",
+            "A glowing neon jellyfish in cathedral",
+            "A glowing neon jellyfish underwater"
+        ]
+    },
+    {
+        "id": "set_a_038",
+        "type": "semantic_shift",
+        "subject": "A robot gardener",
+        "prompts": [
+            "A robot gardener on snow mountain",
+            "A robot gardener in cyberpunk city",
+            "A robot gardener in medieval village",
+            "A robot gardener in high-tech lab"
+        ]
+    },
+    {
+        "id": "set_a_039",
+        "type": "semantic_shift",
+        "subject": "A glowing neon jellyfish",
+        "prompts": [
+            "A glowing neon jellyfish on snow mountain",
+            "A glowing neon jellyfish underwater",
+            "A glowing neon jellyfish in medieval village",
+            "A glowing neon jellyfish on desert planet"
+        ]
+    },
+    {
+        "id": "set_a_040",
+        "type": "semantic_shift",
+        "subject": "A robotic ballerina",
+        "prompts": [
+            "A robotic ballerina in medieval village",
+            "A robotic ballerina in rainforest",
+            "A robotic ballerina at a carnival",
+            "A robotic ballerina underwater"
+        ]
+    },
+    {
+        "id": "set_a_041",
+        "type": "semantic_shift",
+        "subject": "A Victorian lady",
+        "prompts": [
+            "A Victorian lady on desert planet",
+            "A Victorian lady in cathedral",
+            "A Victorian lady on snow mountain",
+            "A Victorian lady in rainforest"
+        ]
+    },
+    {
+        "id": "set_a_042",
+        "type": "semantic_shift",
+        "subject": "A samurai in brass armor",
+        "prompts": [
+            "A samurai in brass armor underwater",
+            "A samurai in brass armor on snow mountain",
+            "A samurai in brass armor on desert planet",
+            "A samurai in brass armor in rainforest"
+        ]
+    },
+    {
+        "id": "set_a_043",
+        "type": "semantic_shift",
+        "subject": "A futuristic soldier",
+        "prompts": [
+            "A futuristic soldier on snow mountain",
+            "A futuristic soldier on desert planet",
+            "A futuristic soldier in high-tech lab",
+            "A futuristic soldier underwater"
+        ]
+    },
+    {
+        "id": "set_a_044",
+        "type": "semantic_shift",
+        "subject": "A cybernetic tiger",
+        "prompts": [
+            "A cybernetic tiger in cathedral",
+            "A cybernetic tiger underwater",
+            "A cybernetic tiger in medieval village",
+            "A cybernetic tiger in space"
+        ]
+    },
+    {
+        "id": "set_a_045",
+        "type": "semantic_shift",
+        "subject": "A steampunk clockwork owl",
+        "prompts": [
+            "A steampunk clockwork owl in space",
+            "A steampunk clockwork owl in cathedral",
+            "A steampunk clockwork owl underwater",
+            "A steampunk clockwork owl on desert planet"
+        ]
+    },
+    {
+        "id": "set_a_046",
+        "type": "semantic_shift",
+        "subject": "A Victorian lady",
+        "prompts": [
+            "A Victorian lady in high-tech lab",
+            "A Victorian lady on desert planet",
+            "A Victorian lady underwater",
+            "A Victorian lady at a carnival"
+        ]
+    },
+    {
+        "id": "set_a_047",
+        "type": "semantic_shift",
+        "subject": "A robotic ballerina",
+        "prompts": [
+            "A robotic ballerina underwater",
+            "A robotic ballerina in medieval village",
+            "A robotic ballerina on desert planet",
+            "A robotic ballerina in cyberpunk city"
+        ]
+    },
+    {
+        "id": "set_a_048",
+        "type": "semantic_shift",
+        "subject": "A robotic ballerina",
+        "prompts": [
+            "A robotic ballerina in medieval village",
+            "A robotic ballerina at a carnival",
+            "A robotic ballerina underwater",
+            "A robotic ballerina in space"
+        ]
+    },
+    {
+        "id": "set_a_049",
+        "type": "semantic_shift",
+        "subject": "A samurai in brass armor",
+        "prompts": [
+            "A samurai in brass armor on snow mountain",
+            "A samurai in brass armor in rainforest",
+            "A samurai in brass armor underwater",
+            "A samurai in brass armor in cyberpunk city"
+        ]
+    },
+    {
+        "id": "set_b_000",
+        "type": "motion_shift",
+        "subject": "A medieval knight",
+        "prompts": [
+            "Panning slowly across A medieval knight in courtyard",
+            "Zooming in rapidly on A medieval knight in courtyard",
+            "Tracking low angle towards A medieval knight in courtyard",
+            "Rotating 360 degrees around A medieval knight in courtyard"
+        ]
+    },
+    {
+        "id": "set_b_001",
+        "type": "motion_shift",
+        "subject": "A futuristic hover-car",
+        "prompts": [
+            "Panning slowly across A futuristic hover-car on rainy bridge",
+            "Zooming in rapidly on A futuristic hover-car on rainy bridge",
+            "Tracking low angle towards A futuristic hover-car on rainy bridge",
+            "Rotating 360 degrees around A futuristic hover-car on rainy bridge"
+        ]
+    },
+    {
+        "id": "set_b_002",
+        "type": "motion_shift",
+        "subject": "A stone golem",
+        "prompts": [
+            "Panning slowly across A stone golem in serene forest",
+            "Zooming in rapidly on A stone golem in serene forest",
+            "Tracking low angle towards A stone golem in serene forest",
+            "Rotating 360 degrees around A stone golem in serene forest"
+        ]
+    },
+    {
+        "id": "set_b_003",
+        "type": "motion_shift",
+        "subject": "A detective",
+        "prompts": [
+            "Panning slowly across A detective in noir office",
+            "Zooming in rapidly on A detective in noir office",
+            "Tracking low angle towards A detective in noir office",
+            "Rotating 360 degrees around A detective in noir office"
+        ]
+    },
+    {
+        "id": "set_b_004",
+        "type": "motion_shift",
+        "subject": "A red sports car",
+        "prompts": [
+            "Panning slowly across A red sports car on desert highway",
+            "Zooming in rapidly on A red sports car on desert highway",
+            "Tracking low angle towards A red sports car on desert highway",
+            "Rotating 360 degrees around A red sports car on desert highway"
+        ]
+    },
+    {
+        "id": "set_b_005",
+        "type": "motion_shift",
+        "subject": "A hooded figure",
+        "prompts": [
+            "Panning slowly across A hooded figure under waterfall",
+            "Zooming in rapidly on A hooded figure under waterfall",
+            "Tracking low angle towards A hooded figure under waterfall",
+            "Rotating 360 degrees around A hooded figure under waterfall"
+        ]
+    },
+    {
+        "id": "set_b_006",
+        "type": "motion_shift",
+        "subject": "A bronze statue",
+        "prompts": [
+            "Panning slowly across A bronze statue in busy NYC",
+            "Zooming in rapidly on A bronze statue in busy NYC",
+            "Tracking low angle towards A bronze statue in busy NYC",
+            "Rotating 360 degrees around A bronze statue in busy NYC"
+        ]
+    },
+    {
+        "id": "set_b_007",
+        "type": "motion_shift",
+        "subject": "A sleek drone",
+        "prompts": [
+            "Panning slowly across A sleek drone on lunar pad",
+            "Zooming in rapidly on A sleek drone on lunar pad",
+            "Tracking low angle towards A sleek drone on lunar pad",
+            "Rotating 360 degrees around A sleek drone on lunar pad"
+        ]
+    },
+    {
+        "id": "set_b_008",
+        "type": "motion_shift",
+        "subject": "A crystal phoenix",
+        "prompts": [
+            "Panning slowly across A crystal phoenix in clock tower",
+            "Zooming in rapidly on A crystal phoenix in clock tower",
+            "Tracking low angle towards A crystal phoenix in clock tower",
+            "Rotating 360 degrees around A crystal phoenix in clock tower"
+        ]
+    },
+    {
+        "id": "set_b_009",
+        "type": "motion_shift",
+        "subject": "A pirate ship",
+        "prompts": [
+            "Panning slowly across A pirate ship in mountain lake",
+            "Zooming in rapidly on A pirate ship in mountain lake",
+            "Tracking low angle towards A pirate ship in mountain lake",
+            "Rotating 360 degrees around A pirate ship in mountain lake"
+        ]
+    },
+    {
+        "id": "set_b_010",
+        "type": "motion_shift",
+        "subject": "A medieval knight",
+        "prompts": [
+            "Panning slowly across A medieval knight in courtyard",
+            "Zooming in rapidly on A medieval knight in courtyard",
+            "Tracking low angle towards A medieval knight in courtyard",
+            "Rotating 360 degrees around A medieval knight in courtyard"
+        ]
+    },
+    {
+        "id": "set_b_011",
+        "type": "motion_shift",
+        "subject": "A futuristic hover-car",
+        "prompts": [
+            "Panning slowly across A futuristic hover-car on rainy bridge",
+            "Zooming in rapidly on A futuristic hover-car on rainy bridge",
+            "Tracking low angle towards A futuristic hover-car on rainy bridge",
+            "Rotating 360 degrees around A futuristic hover-car on rainy bridge"
+        ]
+    },
+    {
+        "id": "set_b_012",
+        "type": "motion_shift",
+        "subject": "A stone golem",
+        "prompts": [
+            "Panning slowly across A stone golem in serene forest",
+            "Zooming in rapidly on A stone golem in serene forest",
+            "Tracking low angle towards A stone golem in serene forest",
+            "Rotating 360 degrees around A stone golem in serene forest"
+        ]
+    },
+    {
+        "id": "set_b_013",
+        "type": "motion_shift",
+        "subject": "A detective",
+        "prompts": [
+            "Panning slowly across A detective in noir office",
+            "Zooming in rapidly on A detective in noir office",
+            "Tracking low angle towards A detective in noir office",
+            "Rotating 360 degrees around A detective in noir office"
+        ]
+    },
+    {
+        "id": "set_b_014",
+        "type": "motion_shift",
+        "subject": "A red sports car",
+        "prompts": [
+            "Panning slowly across A red sports car on desert highway",
+            "Zooming in rapidly on A red sports car on desert highway",
+            "Tracking low angle towards A red sports car on desert highway",
+            "Rotating 360 degrees around A red sports car on desert highway"
+        ]
+    },
+    {
+        "id": "set_b_015",
+        "type": "motion_shift",
+        "subject": "A hooded figure",
+        "prompts": [
+            "Panning slowly across A hooded figure under waterfall",
+            "Zooming in rapidly on A hooded figure under waterfall",
+            "Tracking low angle towards A hooded figure under waterfall",
+            "Rotating 360 degrees around A hooded figure under waterfall"
+        ]
+    },
+    {
+        "id": "set_b_016",
+        "type": "motion_shift",
+        "subject": "A bronze statue",
+        "prompts": [
+            "Panning slowly across A bronze statue in busy NYC",
+            "Zooming in rapidly on A bronze statue in busy NYC",
+            "Tracking low angle towards A bronze statue in busy NYC",
+            "Rotating 360 degrees around A bronze statue in busy NYC"
+        ]
+    },
+    {
+        "id": "set_b_017",
+        "type": "motion_shift",
+        "subject": "A sleek drone",
+        "prompts": [
+            "Panning slowly across A sleek drone on lunar pad",
+            "Zooming in rapidly on A sleek drone on lunar pad",
+            "Tracking low angle towards A sleek drone on lunar pad",
+            "Rotating 360 degrees around A sleek drone on lunar pad"
+        ]
+    },
+    {
+        "id": "set_b_018",
+        "type": "motion_shift",
+        "subject": "A crystal phoenix",
+        "prompts": [
+            "Panning slowly across A crystal phoenix in clock tower",
+            "Zooming in rapidly on A crystal phoenix in clock tower",
+            "Tracking low angle towards A crystal phoenix in clock tower",
+            "Rotating 360 degrees around A crystal phoenix in clock tower"
+        ]
+    },
+    {
+        "id": "set_b_019",
+        "type": "motion_shift",
+        "subject": "A pirate ship",
+        "prompts": [
+            "Panning slowly across A pirate ship in mountain lake",
+            "Zooming in rapidly on A pirate ship in mountain lake",
+            "Tracking low angle towards A pirate ship in mountain lake",
+            "Rotating 360 degrees around A pirate ship in mountain lake"
+        ]
+    },
+    {
+        "id": "set_b_020",
+        "type": "motion_shift",
+        "subject": "A medieval knight",
+        "prompts": [
+            "Panning slowly across A medieval knight in courtyard",
+            "Zooming in rapidly on A medieval knight in courtyard",
+            "Tracking low angle towards A medieval knight in courtyard",
+            "Rotating 360 degrees around A medieval knight in courtyard"
+        ]
+    },
+    {
+        "id": "set_b_021",
+        "type": "motion_shift",
+        "subject": "A futuristic hover-car",
+        "prompts": [
+            "Panning slowly across A futuristic hover-car on rainy bridge",
+            "Zooming in rapidly on A futuristic hover-car on rainy bridge",
+            "Tracking low angle towards A futuristic hover-car on rainy bridge",
+            "Rotating 360 degrees around A futuristic hover-car on rainy bridge"
+        ]
+    },
+    {
+        "id": "set_b_022",
+        "type": "motion_shift",
+        "subject": "A stone golem",
+        "prompts": [
+            "Panning slowly across A stone golem in serene forest",
+            "Zooming in rapidly on A stone golem in serene forest",
+            "Tracking low angle towards A stone golem in serene forest",
+            "Rotating 360 degrees around A stone golem in serene forest"
+        ]
+    },
+    {
+        "id": "set_b_023",
+        "type": "motion_shift",
+        "subject": "A detective",
+        "prompts": [
+            "Panning slowly across A detective in noir office",
+            "Zooming in rapidly on A detective in noir office",
+            "Tracking low angle towards A detective in noir office",
+            "Rotating 360 degrees around A detective in noir office"
+        ]
+    },
+    {
+        "id": "set_b_024",
+        "type": "motion_shift",
+        "subject": "A red sports car",
+        "prompts": [
+            "Panning slowly across A red sports car on desert highway",
+            "Zooming in rapidly on A red sports car on desert highway",
+            "Tracking low angle towards A red sports car on desert highway",
+            "Rotating 360 degrees around A red sports car on desert highway"
+        ]
+    },
+    {
+        "id": "set_b_025",
+        "type": "motion_shift",
+        "subject": "A hooded figure",
+        "prompts": [
+            "Panning slowly across A hooded figure under waterfall",
+            "Zooming in rapidly on A hooded figure under waterfall",
+            "Tracking low angle towards A hooded figure under waterfall",
+            "Rotating 360 degrees around A hooded figure under waterfall"
+        ]
+    },
+    {
+        "id": "set_b_026",
+        "type": "motion_shift",
+        "subject": "A bronze statue",
+        "prompts": [
+            "Panning slowly across A bronze statue in busy NYC",
+            "Zooming in rapidly on A bronze statue in busy NYC",
+            "Tracking low angle towards A bronze statue in busy NYC",
+            "Rotating 360 degrees around A bronze statue in busy NYC"
+        ]
+    },
+    {
+        "id": "set_b_027",
+        "type": "motion_shift",
+        "subject": "A sleek drone",
+        "prompts": [
+            "Panning slowly across A sleek drone on lunar pad",
+            "Zooming in rapidly on A sleek drone on lunar pad",
+            "Tracking low angle towards A sleek drone on lunar pad",
+            "Rotating 360 degrees around A sleek drone on lunar pad"
+        ]
+    },
+    {
+        "id": "set_b_028",
+        "type": "motion_shift",
+        "subject": "A crystal phoenix",
+        "prompts": [
+            "Panning slowly across A crystal phoenix in clock tower",
+            "Zooming in rapidly on A crystal phoenix in clock tower",
+            "Tracking low angle towards A crystal phoenix in clock tower",
+            "Rotating 360 degrees around A crystal phoenix in clock tower"
+        ]
+    },
+    {
+        "id": "set_b_029",
+        "type": "motion_shift",
+        "subject": "A pirate ship",
+        "prompts": [
+            "Panning slowly across A pirate ship in mountain lake",
+            "Zooming in rapidly on A pirate ship in mountain lake",
+            "Tracking low angle towards A pirate ship in mountain lake",
+            "Rotating 360 degrees around A pirate ship in mountain lake"
+        ]
+    },
+    {
+        "id": "set_b_030",
+        "type": "motion_shift",
+        "subject": "A medieval knight",
+        "prompts": [
+            "Panning slowly across A medieval knight in courtyard",
+            "Zooming in rapidly on A medieval knight in courtyard",
+            "Tracking low angle towards A medieval knight in courtyard",
+            "Rotating 360 degrees around A medieval knight in courtyard"
+        ]
+    },
+    {
+        "id": "set_b_031",
+        "type": "motion_shift",
+        "subject": "A futuristic hover-car",
+        "prompts": [
+            "Panning slowly across A futuristic hover-car on rainy bridge",
+            "Zooming in rapidly on A futuristic hover-car on rainy bridge",
+            "Tracking low angle towards A futuristic hover-car on rainy bridge",
+            "Rotating 360 degrees around A futuristic hover-car on rainy bridge"
+        ]
+    },
+    {
+        "id": "set_b_032",
+        "type": "motion_shift",
+        "subject": "A stone golem",
+        "prompts": [
+            "Panning slowly across A stone golem in serene forest",
+            "Zooming in rapidly on A stone golem in serene forest",
+            "Tracking low angle towards A stone golem in serene forest",
+            "Rotating 360 degrees around A stone golem in serene forest"
+        ]
+    },
+    {
+        "id": "set_b_033",
+        "type": "motion_shift",
+        "subject": "A detective",
+        "prompts": [
+            "Panning slowly across A detective in noir office",
+            "Zooming in rapidly on A detective in noir office",
+            "Tracking low angle towards A detective in noir office",
+            "Rotating 360 degrees around A detective in noir office"
+        ]
+    },
+    {
+        "id": "set_b_034",
+        "type": "motion_shift",
+        "subject": "A red sports car",
+        "prompts": [
+            "Panning slowly across A red sports car on desert highway",
+            "Zooming in rapidly on A red sports car on desert highway",
+            "Tracking low angle towards A red sports car on desert highway",
+            "Rotating 360 degrees around A red sports car on desert highway"
+        ]
+    },
+    {
+        "id": "set_b_035",
+        "type": "motion_shift",
+        "subject": "A hooded figure",
+        "prompts": [
+            "Panning slowly across A hooded figure under waterfall",
+            "Zooming in rapidly on A hooded figure under waterfall",
+            "Tracking low angle towards A hooded figure under waterfall",
+            "Rotating 360 degrees around A hooded figure under waterfall"
+        ]
+    },
+    {
+        "id": "set_b_036",
+        "type": "motion_shift",
+        "subject": "A bronze statue",
+        "prompts": [
+            "Panning slowly across A bronze statue in busy NYC",
+            "Zooming in rapidly on A bronze statue in busy NYC",
+            "Tracking low angle towards A bronze statue in busy NYC",
+            "Rotating 360 degrees around A bronze statue in busy NYC"
+        ]
+    },
+    {
+        "id": "set_b_037",
+        "type": "motion_shift",
+        "subject": "A sleek drone",
+        "prompts": [
+            "Panning slowly across A sleek drone on lunar pad",
+            "Zooming in rapidly on A sleek drone on lunar pad",
+            "Tracking low angle towards A sleek drone on lunar pad",
+            "Rotating 360 degrees around A sleek drone on lunar pad"
+        ]
+    },
+    {
+        "id": "set_b_038",
+        "type": "motion_shift",
+        "subject": "A crystal phoenix",
+        "prompts": [
+            "Panning slowly across A crystal phoenix in clock tower",
+            "Zooming in rapidly on A crystal phoenix in clock tower",
+            "Tracking low angle towards A crystal phoenix in clock tower",
+            "Rotating 360 degrees around A crystal phoenix in clock tower"
+        ]
+    },
+    {
+        "id": "set_b_039",
+        "type": "motion_shift",
+        "subject": "A pirate ship",
+        "prompts": [
+            "Panning slowly across A pirate ship in mountain lake",
+            "Zooming in rapidly on A pirate ship in mountain lake",
+            "Tracking low angle towards A pirate ship in mountain lake",
+            "Rotating 360 degrees around A pirate ship in mountain lake"
+        ]
+    },
+    {
+        "id": "set_b_040",
+        "type": "motion_shift",
+        "subject": "A medieval knight",
+        "prompts": [
+            "Panning slowly across A medieval knight in courtyard",
+            "Zooming in rapidly on A medieval knight in courtyard",
+            "Tracking low angle towards A medieval knight in courtyard",
+            "Rotating 360 degrees around A medieval knight in courtyard"
+        ]
+    },
+    {
+        "id": "set_b_041",
+        "type": "motion_shift",
+        "subject": "A futuristic hover-car",
+        "prompts": [
+            "Panning slowly across A futuristic hover-car on rainy bridge",
+            "Zooming in rapidly on A futuristic hover-car on rainy bridge",
+            "Tracking low angle towards A futuristic hover-car on rainy bridge",
+            "Rotating 360 degrees around A futuristic hover-car on rainy bridge"
+        ]
+    },
+    {
+        "id": "set_b_042",
+        "type": "motion_shift",
+        "subject": "A stone golem",
+        "prompts": [
+            "Panning slowly across A stone golem in serene forest",
+            "Zooming in rapidly on A stone golem in serene forest",
+            "Tracking low angle towards A stone golem in serene forest",
+            "Rotating 360 degrees around A stone golem in serene forest"
+        ]
+    },
+    {
+        "id": "set_b_043",
+        "type": "motion_shift",
+        "subject": "A detective",
+        "prompts": [
+            "Panning slowly across A detective in noir office",
+            "Zooming in rapidly on A detective in noir office",
+            "Tracking low angle towards A detective in noir office",
+            "Rotating 360 degrees around A detective in noir office"
+        ]
+    },
+    {
+        "id": "set_b_044",
+        "type": "motion_shift",
+        "subject": "A red sports car",
+        "prompts": [
+            "Panning slowly across A red sports car on desert highway",
+            "Zooming in rapidly on A red sports car on desert highway",
+            "Tracking low angle towards A red sports car on desert highway",
+            "Rotating 360 degrees around A red sports car on desert highway"
+        ]
+    },
+    {
+        "id": "set_b_045",
+        "type": "motion_shift",
+        "subject": "A hooded figure",
+        "prompts": [
+            "Panning slowly across A hooded figure under waterfall",
+            "Zooming in rapidly on A hooded figure under waterfall",
+            "Tracking low angle towards A hooded figure under waterfall",
+            "Rotating 360 degrees around A hooded figure under waterfall"
+        ]
+    },
+    {
+        "id": "set_b_046",
+        "type": "motion_shift",
+        "subject": "A bronze statue",
+        "prompts": [
+            "Panning slowly across A bronze statue in busy NYC",
+            "Zooming in rapidly on A bronze statue in busy NYC",
+            "Tracking low angle towards A bronze statue in busy NYC",
+            "Rotating 360 degrees around A bronze statue in busy NYC"
+        ]
+    },
+    {
+        "id": "set_b_047",
+        "type": "motion_shift",
+        "subject": "A sleek drone",
+        "prompts": [
+            "Panning slowly across A sleek drone on lunar pad",
+            "Zooming in rapidly on A sleek drone on lunar pad",
+            "Tracking low angle towards A sleek drone on lunar pad",
+            "Rotating 360 degrees around A sleek drone on lunar pad"
+        ]
+    },
+    {
+        "id": "set_b_048",
+        "type": "motion_shift",
+        "subject": "A crystal phoenix",
+        "prompts": [
+            "Panning slowly across A crystal phoenix in clock tower",
+            "Zooming in rapidly on A crystal phoenix in clock tower",
+            "Tracking low angle towards A crystal phoenix in clock tower",
+            "Rotating 360 degrees around A crystal phoenix in clock tower"
+        ]
+    },
+    {
+        "id": "set_b_049",
+        "type": "motion_shift",
+        "subject": "A pirate ship",
+        "prompts": [
+            "Panning slowly across A pirate ship in mountain lake",
+            "Zooming in rapidly on A pirate ship in mountain lake",
+            "Tracking low angle towards A pirate ship in mountain lake",
+            "Rotating 360 degrees around A pirate ship in mountain lake"
+        ]
+    }
+]

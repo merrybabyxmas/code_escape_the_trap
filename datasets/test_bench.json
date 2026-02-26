@@ -1,0 +1,24 @@
+[
+    {
+        "id": "set_a_000",
+        "type": "semantic_shift",
+        "subject": "A cybernetic tiger",
+        "prompts": [
+            "A cybernetic tiger at a carnival",
+            "A cybernetic tiger underwater",
+            "A cybernetic tiger in rainforest",
+            "A cybernetic tiger in space"
+        ]
+    },
+    {
+        "id": "set_b_000",
+        "type": "motion_shift",
+        "subject": "A medieval knight",
+        "prompts": [
+            "Panning slowly across A medieval knight in courtyard",
+            "Zooming in rapidly on A medieval knight in courtyard",
+            "Tracking low angle towards A medieval knight in courtyard",
+            "Rotating 360 degrees around A medieval knight in courtyard"
+        ]
+    }
+]

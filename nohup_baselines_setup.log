@@ -1,0 +1,386 @@
+Starting PhD-level full experimental pipeline...
+1. Environment Setup
+Setting up FreeNoise...
+2 channel Terms of Service accepted
+Channels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | / done
+Solving environment: \ done
+
+
+==> WARNING: A newer version of conda exists. <==
+    current version: 25.11.1
+    latest version: 26.1.1
+
+Please update conda by running
+
+    $ conda update -n base -c defaults conda
+
+
+
+## Package Plan ##
+
+  environment location: /home/dongwoo43/miniconda3/envs/freenoise
+
+  added / updated specs:
+    - python=3.8.5
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    libffi-3.3                 |       he6710b0_2          50 KB
+    openssl-1.1.1w             |       h7f8727e_0         3.7 MB
+    pip-24.2                   |   py38h06a4308_0         2.2 MB
+    python-3.8.5               |       h7579374_1        49.3 MB
+    setuptools-75.1.0          |   py38h06a4308_0         1.7 MB
+    wheel-0.44.0               |   py38h06a4308_0         108 KB
+    ------------------------------------------------------------
+                                           Total:        57.1 MB
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main 
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu 
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2025.12.2-h06a4308_0 
+  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.44-h153f514_2 
+  libffi             pkgs/main/linux-64::libffi-3.3-he6710b0_2 
+  libgcc             pkgs/main/linux-64::libgcc-15.2.0-h69a1729_7 
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-15.2.0-h166f726_7 
+  libgomp            pkgs/main/linux-64::libgomp-15.2.0-h4751f2c_7 
+  libstdcxx          pkgs/main/linux-64::libstdcxx-15.2.0-h39759b7_7 
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-15.2.0-hc03a8fd_7 
+  libxcb             pkgs/main/linux-64::libxcb-1.17.0-h9b100fa_0 
+  libzlib            pkgs/main/linux-64::libzlib-1.3.1-hb25bd0a_0 
+  ncurses            pkgs/main/linux-64::ncurses-6.5-h7934f7d_0 
+  openssl            pkgs/main/linux-64::openssl-1.1.1w-h7f8727e_0 
+  pip                pkgs/main/linux-64::pip-24.2-py38h06a4308_0 
+  pthread-stubs      pkgs/main/linux-64::pthread-stubs-0.3-h0ce48e5_1 
+  python             pkgs/main/linux-64::python-3.8.5-h7579374_1 
+  readline           pkgs/main/linux-64::readline-8.3-hc2a1206_0 
+  setuptools         pkgs/main/linux-64::setuptools-75.1.0-py38h06a4308_0 
+  sqlite             pkgs/main/linux-64::sqlite-3.51.1-he0a8d7e_0 
+  tk                 pkgs/main/linux-64::tk-8.6.15-h54e0aa7_0 
+  wheel              pkgs/main/linux-64::wheel-0.44.0-py38h06a4308_0 
+  xorg-libx11        pkgs/main/linux-64::xorg-libx11-1.8.12-h9b100fa_1 
+  xorg-libxau        pkgs/main/linux-64::xorg-libxau-1.0.12-h9b100fa_0 
+  xorg-libxdmcp      pkgs/main/linux-64::xorg-libxdmcp-1.1.5-h9b100fa_0 
+  xorg-xorgproto     pkgs/main/linux-64::xorg-xorgproto-2024.1-h5eee18b_1 
+  xz                 pkgs/main/linux-64::xz-5.6.4-h5eee18b_1 
+  zlib               pkgs/main/linux-64::zlib-1.3.1-hb25bd0a_0 
+
+
+
+Downloading and Extracting Packages: ...working...python-3.8.5         | 49.3 MB   |            |   0% 
+openssl-1.1.1w       | 3.7 MB    |            |   0% [A
+
+pip-24.2             | 2.2 MB    |            |   0% [A[A
+
+
+setuptools-75.1.0    | 1.7 MB    |            |   0% [A[A[A
+
+
+
+wheel-0.44.0         | 108 KB    |            |   0% [A[A[A[A
+
+
+
+
+libffi-3.3           | 50 KB     |            |   0% [A[A[A[A[Apython-3.8.5         | 49.3 MB   |            |   1% 
+
+
+setuptools-75.1.0    | 1.7 MB    |            |   1% [A[A[A
+openssl-1.1.1w       | 3.7 MB    |            |   0% [A
+
+pip-24.2             | 2.2 MB    |            |   1% [A[A
+
+
+
+wheel-0.44.0         | 108 KB    | #4         |  15% [A[A[A[A
+
+
+
+wheel-0.44.0         | 108 KB    | ########## | 100% [A[A[A[A
+
+
+
+wheel-0.44.0         | 108 KB    | ########## | 100% [A[A[A[Apython-3.8.5         | 49.3 MB   | 2          |   3% 
+
+
+setuptools-75.1.0    | 1.7 MB    | ###6       |  36% [A[A[A
+openssl-1.1.1w       | 3.7 MB    | ##2        |  22% [A
+
+pip-24.2             | 2.2 MB    | #####5     |  55% [A[A
+
+
+
+
+libffi-3.3           | 50 KB     | ###1       |  32% [A[A[A[A[A
+
+
+
+
+libffi-3.3           | 50 KB     | ########## | 100% [A[A[A[A[A
+
+
+
+
+libffi-3.3           | 50 KB     | ########## | 100% [A[A[A[A[Apython-3.8.5         | 49.3 MB   | 4          |   4% 
+
+
+setuptools-75.1.0    | 1.7 MB    | ########2  |  82% [A[A[A
+
+
+setuptools-75.1.0    | 1.7 MB    | ########## | 100% [A[A[A
+openssl-1.1.1w       | 3.7 MB    | ####3      |  43% [A
+
+pip-24.2             | 2.2 MB    | ########## | 100% [A[A
+
+pip-24.2             | 2.2 MB    | ########## | 100% [A[Apython-3.8.5         | 49.3 MB   | 7          |   8% 
+openssl-1.1.1w       | 3.7 MB    | ########1  |  82% [Apython-3.8.5         | 49.3 MB   | #2         |  12% 
+openssl-1.1.1w       | 3.7 MB    | ########## | 100% [Apython-3.8.5         | 49.3 MB   | #9         |  19% python-3.8.5         | 49.3 MB   | ##5        |  25% 
+openssl-1.1.1w       | 3.7 MB    | ########## | 100% [Apython-3.8.5         | 49.3 MB   | ###2       |  32% 
+
+
+setuptools-75.1.0    | 1.7 MB    | ########## | 100% [A[A[A
+
+pip-24.2             | 2.2 MB    | ########## | 100% [A[Apython-3.8.5         | 49.3 MB   | ###9       |  39% python-3.8.5         | 49.3 MB   | ####6      |  46% python-3.8.5         | 49.3 MB   | #####3     |  53% python-3.8.5         | 49.3 MB   | #####9     |  60% python-3.8.5         | 49.3 MB   | ######6    |  67% python-3.8.5         | 49.3 MB   | #######3   |  74% python-3.8.5         | 49.3 MB   | ########   |  81% python-3.8.5         | 49.3 MB   | ########7  |  88% python-3.8.5         | 49.3 MB   | #########4 |  95% python-3.8.5         | 49.3 MB   | ########## | 100% python-3.8.5         | 49.3 MB   | ########## | 100%                                                      
+                                                     [A
+
+                                                     [A[A
+
+
+                                                     [A[A[A
+
+
+
+                                                     [A[A[A[A
+
+
+
+
+                                                     [A[A[A[A[A done
+Preparing transaction: / - done
+Verifying transaction: | / - \ | / - done
+Executing transaction: | / - \ done
+#
+# To activate this environment, use
+#
+#     $ conda activate freenoise
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'baselines/FreeNoise/requirements.txt'
+
+ERROR conda.cli.main_run:execute(127): `conda run pip install -r baselines/FreeNoise/requirements.txt` failed. (See above for error)
+Setting up StoryDiffusion...
+2 channel Terms of Service accepted
+Channels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | done
+Solving environment: - done
+
+
+==> WARNING: A newer version of conda exists. <==
+    current version: 25.11.1
+    latest version: 26.1.1
+
+Please update conda by running
+
+    $ conda update -n base -c defaults conda
+
+
+
+## Package Plan ##
+
+  environment location: /home/dongwoo43/miniconda3/envs/storydiffusion
+
+  added / updated specs:
+    - python=3.10
+
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main 
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu 
+  bzip2              pkgs/main/linux-64::bzip2-1.0.8-h5eee18b_6 
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2025.12.2-h06a4308_0 
+  expat              pkgs/main/linux-64::expat-2.7.4-h7354ed3_0 
+  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.44-h153f514_2 
+  libexpat           pkgs/main/linux-64::libexpat-2.7.4-h7354ed3_0 
+  libffi             pkgs/main/linux-64::libffi-3.4.4-h6a678d5_1 
+  libgcc             pkgs/main/linux-64::libgcc-15.2.0-h69a1729_7 
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-15.2.0-h166f726_7 
+  libgomp            pkgs/main/linux-64::libgomp-15.2.0-h4751f2c_7 
+  libnsl             pkgs/main/linux-64::libnsl-2.0.0-h5eee18b_0 
+  libstdcxx          pkgs/main/linux-64::libstdcxx-15.2.0-h39759b7_7 
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-15.2.0-hc03a8fd_7 
+  libuuid            pkgs/main/linux-64::libuuid-1.41.5-h5eee18b_0 
+  libxcb             pkgs/main/linux-64::libxcb-1.17.0-h9b100fa_0 
+  libzlib            pkgs/main/linux-64::libzlib-1.3.1-hb25bd0a_0 
+  ncurses            pkgs/main/linux-64::ncurses-6.5-h7934f7d_0 
+  openssl            pkgs/main/linux-64::openssl-3.0.19-h1b28b03_0 
+  packaging          pkgs/main/linux-64::packaging-25.0-py310h06a4308_1 
+  pip                pkgs/main/noarch::pip-26.0.1-pyhc872135_0 
+  pthread-stubs      pkgs/main/linux-64::pthread-stubs-0.3-h0ce48e5_1 
+  python             pkgs/main/linux-64::python-3.10.19-h6fa692b_0 
+  readline           pkgs/main/linux-64::readline-8.3-hc2a1206_0 
+  setuptools         pkgs/main/linux-64::setuptools-80.10.2-py310h06a4308_0 
+  sqlite             pkgs/main/linux-64::sqlite-3.51.1-he0a8d7e_0 
+  tk                 pkgs/main/linux-64::tk-8.6.15-h54e0aa7_0 
+  tzdata             pkgs/main/noarch::tzdata-2025c-he532380_0 
+  wheel              pkgs/main/linux-64::wheel-0.46.3-py310h06a4308_0 
+  xorg-libx11        pkgs/main/linux-64::xorg-libx11-1.8.12-h9b100fa_1 
+  xorg-libxau        pkgs/main/linux-64::xorg-libxau-1.0.12-h9b100fa_0 
+  xorg-libxdmcp      pkgs/main/linux-64::xorg-libxdmcp-1.1.5-h9b100fa_0 
+  xorg-xorgproto     pkgs/main/linux-64::xorg-xorgproto-2024.1-h5eee18b_1 
+  xz                 pkgs/main/linux-64::xz-5.6.4-h5eee18b_1 
+  zlib               pkgs/main/linux-64::zlib-1.3.1-hb25bd0a_0 
+
+
+
+Downloading and Extracting Packages: ...working... done
+Preparing transaction: | / done
+Verifying transaction: \ | / - \ | / - \ done
+Executing transaction: / - \ | / - \ | / - \ | / - \ | / - \ | / - \ done
+#
+# To activate this environment, use
+#
+#     $ conda activate storydiffusion
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'baselines/StoryDiffusion/requirements.txt'
+
+ERROR conda.cli.main_run:execute(127): `conda run pip install -r baselines/StoryDiffusion/requirements.txt` failed. (See above for error)
+Setting up DirecT2V...
+2 channel Terms of Service accepted
+Channels:
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): - \ | done
+Solving environment: - done
+
+
+==> WARNING: A newer version of conda exists. <==
+    current version: 25.11.1
+    latest version: 26.1.1
+
+Please update conda by running
+
+    $ conda update -n base -c defaults conda
+
+
+
+## Package Plan ##
+
+  environment location: /home/dongwoo43/miniconda3/envs/direct2v
+
+  added / updated specs:
+    - python=3.9
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    python-3.9.25              |       h0dcde21_1        23.0 MB
+    setuptools-80.9.0          |   py39h06a4308_0         1.4 MB
+    wheel-0.45.1               |   py39h06a4308_0         114 KB
+    ------------------------------------------------------------
+                                           Total:        24.6 MB
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main 
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu 
+  bzip2              pkgs/main/linux-64::bzip2-1.0.8-h5eee18b_6 
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2025.12.2-h06a4308_0 
+  expat              pkgs/main/linux-64::expat-2.7.4-h7354ed3_0 
+  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.44-h153f514_2 
+  libexpat           pkgs/main/linux-64::libexpat-2.7.4-h7354ed3_0 
+  libffi             pkgs/main/linux-64::libffi-3.4.4-h6a678d5_1 
+  libgcc             pkgs/main/linux-64::libgcc-15.2.0-h69a1729_7 
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-15.2.0-h166f726_7 
+  libgomp            pkgs/main/linux-64::libgomp-15.2.0-h4751f2c_7 
+  libnsl             pkgs/main/linux-64::libnsl-2.0.0-h5eee18b_0 
+  libstdcxx          pkgs/main/linux-64::libstdcxx-15.2.0-h39759b7_7 
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-15.2.0-hc03a8fd_7 
+  libuuid            pkgs/main/linux-64::libuuid-1.41.5-h5eee18b_0 
+  libxcb             pkgs/main/linux-64::libxcb-1.17.0-h9b100fa_0 
+  libzlib            pkgs/main/linux-64::libzlib-1.3.1-hb25bd0a_0 
+  ncurses            pkgs/main/linux-64::ncurses-6.5-h7934f7d_0 
+  openssl            pkgs/main/linux-64::openssl-3.0.19-h1b28b03_0 
+  pip                pkgs/main/noarch::pip-26.0.1-pyhc872135_0 
+  pthread-stubs      pkgs/main/linux-64::pthread-stubs-0.3-h0ce48e5_1 
+  python             pkgs/main/linux-64::python-3.9.25-h0dcde21_1 
+  readline           pkgs/main/linux-64::readline-8.3-hc2a1206_0 
+  setuptools         pkgs/main/linux-64::setuptools-80.9.0-py39h06a4308_0 
+  sqlite             pkgs/main/linux-64::sqlite-3.51.1-he0a8d7e_0 
+  tk                 pkgs/main/linux-64::tk-8.6.15-h54e0aa7_0 
+  tzdata             pkgs/main/noarch::tzdata-2025c-he532380_0 
+  wheel              pkgs/main/linux-64::wheel-0.45.1-py39h06a4308_0 
+  xorg-libx11        pkgs/main/linux-64::xorg-libx11-1.8.12-h9b100fa_1 
+  xorg-libxau        pkgs/main/linux-64::xorg-libxau-1.0.12-h9b100fa_0 
+  xorg-libxdmcp      pkgs/main/linux-64::xorg-libxdmcp-1.1.5-h9b100fa_0 
+  xorg-xorgproto     pkgs/main/linux-64::xorg-xorgproto-2024.1-h5eee18b_1 
+  xz                 pkgs/main/linux-64::xz-5.6.4-h5eee18b_1 
+  zlib               pkgs/main/linux-64::zlib-1.3.1-hb25bd0a_0 
+
+
+
+Downloading and Extracting Packages: ...working...python-3.9.25        | 23.0 MB   |            |   0% 
+setuptools-80.9.0    | 1.4 MB    |            |   0% [A
+
+wheel-0.45.1         | 114 KB    |            |   0% [A[A
+
+wheel-0.45.1         | 114 KB    | #4         |  14% [A[Apython-3.9.25        | 23.0 MB   |            |   0% 
+
+wheel-0.45.1         | 114 KB    | ########## | 100% [A[A
+
+wheel-0.45.1         | 114 KB    | ########## | 100% [A[A
+setuptools-80.9.0    | 1.4 MB    | 1          |   1% [Apython-3.9.25        | 23.0 MB   | 7          |   7% 
+setuptools-80.9.0    | 1.4 MB    | ########## | 100% [Apython-3.9.25        | 23.0 MB   | #4         |  15% 
+setuptools-80.9.0    | 1.4 MB    | ########## | 100% [A
+setuptools-80.9.0    | 1.4 MB    | ########## | 100% [Apython-3.9.25        | 23.0 MB   | ##1        |  22% python-3.9.25        | 23.0 MB   | ###3       |  33% python-3.9.25        | 23.0 MB   | ####8      |  48% python-3.9.25        | 23.0 MB   | ######2    |  62% python-3.9.25        | 23.0 MB   | #######7   |  77% python-3.9.25        | 23.0 MB   | #########1 |  92% python-3.9.25        | 23.0 MB   | ########## | 100% python-3.9.25        | 23.0 MB   | ########## | 100%                                                      
+                                                     [A
+
+                                                     [A[A done
+Preparing transaction: | / done
+Verifying transaction: \ | / - \ | / - \ done
+Executing transaction: / - \ | / - \ | / - \ | / - \ | / - \ | / - done
+#
+# To activate this environment, use
+#
+#     $ conda activate direct2v
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'baselines/DirecT2V/requirements.txt'
+
+ERROR conda.cli.main_run:execute(127): `conda run pip install -r baselines/DirecT2V/requirements.txt` failed. (See above for error)
+2. Running Baselines (Official Implementations)
+python: can't open file '/home/dongwoo43/2_run_baselines.py': [Errno 2] No such file or directory
+
+ERROR conda.cli.main_run:execute(127): `conda run python 2_run_baselines.py` failed. (See above for error)
+3. Evaluating Metrics
+python: can't open file '/home/dongwoo43/3_evaluate_metrics.py': [Errno 2] No such file or directory
+
+ERROR conda.cli.main_run:execute(127): `conda run python 3_evaluate_metrics.py` failed. (See above for error)
+4. Checking Alignment and Generating Plots
+python: can't open file '/home/dongwoo43/4_check_alignment.py': [Errno 2] No such file or directory
+
+ERROR conda.cli.main_run:execute(127): `conda run python 4_check_alignment.py` failed. (See above for error)
+python: can't open file '/home/dongwoo43/7_generate_plots.py': [Errno 2] No such file or directory
+
+ERROR conda.cli.main_run:execute(127): `conda run python 7_generate_plots.py` failed. (See above for error)
+✅ All experiments and analysis completed.
