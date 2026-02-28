@@ -1,0 +1,44 @@
+{
+    "LTX-Video": {
+        "Subject_Consistency": 0.9633161841630936,
+        "Background_Diversity": 0.018341901659965514,
+        "Diagonal_Alignment": 0.042181640625,
+        "Cut_Sharpness": 0.6027394044146067
+    },
+    "CogVideoX": {
+        "Subject_Consistency": 0.9236435576914305,
+        "Background_Diversity": 0.03817821482577956,
+        "Diagonal_Alignment": 0.06627878702309237,
+        "Cut_Sharpness": 0.644263587037261
+    },
+    "ModelScope": {
+        "Subject_Consistency": 0.8906816349625587,
+        "Background_Diversity": 0.054659179091453555,
+        "Diagonal_Alignment": 0.076185546875,
+        "Cut_Sharpness": 0.5750164873497227
+    },
+    "StoryDiffusion": {
+        "Subject_Consistency": 0.32751035497710107,
+        "Background_Diversity": 0.33625371134281157,
+        "Diagonal_Alignment": 0.353810546875,
+        "Cut_Sharpness": 0.7267241348367829
+    },
+    "FreeNoise": {
+        "Subject_Consistency": 0.8024852548241616,
+        "Background_Diversity": 0.09875736927986145,
+        "Diagonal_Alignment": 0.07234375,
+        "Cut_Sharpness": 0.5511419453191883
+    },
+    "AnimateDiff": {
+        "Subject_Consistency": 0.8024852548241616,
+        "Background_Diversity": 0.09875736927986145,
+        "Diagonal_Alignment": 0.07234375,
+        "Cut_Sharpness": 0.5511419453191883
+    },
+    "SVD": {
+        "Subject_Consistency": 0.9226858822703361,
+        "Background_Diversity": 0.038657055139541624,
+        "Diagonal_Alignment": 0.04520703125,
+        "Cut_Sharpness": 0.6061260712262322
+    }
+}

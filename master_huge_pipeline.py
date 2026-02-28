@@ -93,15 +93,26 @@ def model_worker(gpu_id, model_name, samples, lock):
     # Load Generation Pipeline
     pipe = None; t2i_pipe = None; SEED = 42; torch.manual_seed(SEED)
     try:
-        if model_name == "CogVideoX": pipe = CogVideoXPipeline.from_pretrained("THUDM/CogVideoX-2b", torch_dtype=torch.float16).to(device)
-        elif model_name == "LTX-Video": pipe = LTXPipeline.from_pretrained("Lightricks/LTX-Video", torch_dtype=torch.bfloat16).to(device)
+        if model_name == "CogVideoX":
+            pipe = CogVideoXPipeline.from_pretrained("THUDM/CogVideoX-2b", torch_dtype=torch.float16)
+            pipe.enable_model_cpu_offload(gpu_id=gpu_id)
+            pipe.vae.enable_tiling()
+            pipe.vae.enable_slicing()
+        elif model_name == "LTX-Video":
+            pipe = LTXPipeline.from_pretrained("Lightricks/LTX-Video", torch_dtype=torch.bfloat16)
+            pipe.enable_model_cpu_offload(gpu_id=gpu_id)
         elif model_name == "SVD":
-            t2i_pipe = StableDiffusionPipeline.from_pretrained("runwayml/stable-diffusion-v1-5", torch_dtype=torch.float16).to(device)
-            pipe = StableVideoDiffusionPipeline.from_pretrained("stabilityai/stable-video-diffusion-img2vid-xt", torch_dtype=torch.float16, variant="fp16").to(device)
-        elif model_name == "ModelScope": pipe = TextToVideoSDPipeline.from_pretrained("damo-vilab/text-to-video-ms-1.7b", torch_dtype=torch.float16).to(device)
+            t2i_pipe = StableDiffusionPipeline.from_pretrained("runwayml/stable-diffusion-v1-5", torch_dtype=torch.float16)
+            t2i_pipe.enable_model_cpu_offload(gpu_id=gpu_id)
+            pipe = StableVideoDiffusionPipeline.from_pretrained("stabilityai/stable-video-diffusion-img2vid-xt", torch_dtype=torch.float16, variant="fp16")
+            pipe.enable_model_cpu_offload(gpu_id=gpu_id)
+        elif model_name == "ModelScope":
+            pipe = TextToVideoSDPipeline.from_pretrained("damo-vilab/text-to-video-ms-1.7b", torch_dtype=torch.float16)
+            pipe.enable_model_cpu_offload(gpu_id=gpu_id)
         else:
             adapter = MotionAdapter.from_pretrained("guoyww/animatediff-motion-adapter-v1-5-2", torch_dtype=torch.float16)
-            pipe = AnimateDiffPipeline.from_pretrained("runwayml/stable-diffusion-v1-5", motion_adapter=adapter, torch_dtype=torch.float16).to(device)
+            pipe = AnimateDiffPipeline.from_pretrained("runwayml/stable-diffusion-v1-5", motion_adapter=adapter, torch_dtype=torch.float16)
+            pipe.enable_model_cpu_offload(gpu_id=gpu_id)
     except Exception as e:
         print(f"❌ [GPU:{gpu_id}] Failed to load {model_name}: {e}"); return
 
@@ -120,6 +131,12 @@ def model_worker(gpu_id, model_name, samples, lock):
                 elif model_name == "StoryDiffusion":
                     frames = []
                     for p in s['prompts']: frames.extend(pipe(prompt=p, num_frames=TARGET_FRAMES//2).frames[0])
+                elif model_name == "CogVideoX":
+                    # CogVideoX-2b works best with (4k + 1) frames. 13 or 17.
+                    frames = pipe(prompt=prompt, num_frames=13, height=TARGET_RES[1], width=TARGET_RES[0]).frames[0]
+                elif model_name == "LTX-Video":
+                    # LTX-Video works best with (8k + 1) frames. 17.
+                    frames = pipe(prompt=prompt, num_frames=17, height=TARGET_RES[1], width=TARGET_RES[0]).frames[0]
                 else: frames = pipe(prompt=prompt, num_frames=TARGET_FRAMES).frames[0]
                 frames = resize_video(frames, TARGET_RES)
                 export_to_video(frames, vid_path, fps=TARGET_FPS)
@@ -164,8 +181,8 @@ def model_worker(gpu_id, model_name, samples, lock):
 
 def main_orchestrator():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--gpus", type=str, default="0", help="Comma separated GPU IDs (e.g. 0,1,2,3)")
-    parser.add_argument("--tasks_per_gpu", type=int, default=2, help="Concurrent tasks per GPU")
+    parser.add_argument("--gpus", type=str, default="0,1,2,3", help="Comma separated GPU IDs (e.g. 0,1,2,3)")
+    parser.add_argument("--tasks_per_gpu", type=int, default=1, help="Concurrent tasks per GPU")
     args = parser.parse_args()
 
     gpu_list = [int(g) for g in args.gpus.split(",")]
@@ -177,7 +194,11 @@ def main_orchestrator():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     per_sample_lock = Lock()
     
-    MODELS = ["CogVideoX", "LTX-Video", "SVD", "ModelScope", "StoryDiffusion", "FreeNoise", "AnimateDiff"]
+    MODELS = ["SVD"]
+    # MODELS = ["CogVideoX", "LTX-Video", "SVD", "ModelScope", "StoryDiffusion", "FreeNoise", "AnimateDiff"]
+    
+    # MODELS = ["ModelScope", "StoryDiffusion", "FreeNoise", "AnimateDiff"]
+    
     
     processes = []
     # Simple strategy: Distribute models across available slots
